@@ -1,0 +1,3 @@
+<view id="id" class = "ball" bindtap = "handletap" bindtouchstart = "handletouchtart" bindtouchmove="handletouchmove" bindtouchend="handletouchend" style = "width : 50%;left:{{move_x}};top:{{move_y}}">
+{{text}}
+</view>
